@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		7854359E254B060400ACCD0A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7854359D254B060400ACCD0A /* main.cpp */; };
 		785435A6254B093F00ACCD0A /* libgmp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 785435A5254B093F00ACCD0A /* libgmp.a */; };
+		78B39500256D899300CA958F /* Point.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 78B394FE256D899300CA958F /* Point.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,9 @@
 		7854359D254B060400ACCD0A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		785435A5254B093F00ACCD0A /* libgmp.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libgmp.a; path = ../../../../usr/local/lib/libgmp.a; sourceTree = "<group>"; };
 		78A5B902254B6BAF0079A9DF /* NestekenoCpp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = NestekenoCpp.entitlements; sourceTree = "<group>"; };
+		78B394FE256D899300CA958F /* Point.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Point.cpp; sourceTree = "<group>"; };
+		78B394FF256D899300CA958F /* Point.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Point.hpp; sourceTree = "<group>"; };
+		78B39503256D8A4E00CA958F /* CurveParams.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = CurveParams.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +68,9 @@
 			children = (
 				78A5B902254B6BAF0079A9DF /* NestekenoCpp.entitlements */,
 				7854359D254B060400ACCD0A /* main.cpp */,
+				78B394FE256D899300CA958F /* Point.cpp */,
+				78B394FF256D899300CA958F /* Point.hpp */,
+				78B39503256D8A4E00CA958F /* CurveParams.hpp */,
 			);
 			path = NestekenoCpp;
 			sourceTree = "<group>";
@@ -133,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78B39500256D899300CA958F /* Point.cpp in Sources */,
 				7854359E254B060400ACCD0A /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
