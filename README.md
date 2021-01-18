@@ -9,6 +9,7 @@ https://gmplib.org \
 
 ## Прогон тестов 
 ```
+mkdir build
 cd build 
 cmake -G Ninja ..
 ninja
