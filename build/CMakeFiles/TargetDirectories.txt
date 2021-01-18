@@ -1,3 +1,0 @@
-/home/user/Twisted-Hessian-Curve/build/CMakeFiles/rebuild_cache.dir
-/home/user/Twisted-Hessian-Curve/build/CMakeFiles/edit_cache.dir
-/home/user/Twisted-Hessian-Curve/build/CMakeFiles/TwistedHessianCurve.dir
