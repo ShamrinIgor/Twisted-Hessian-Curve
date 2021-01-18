@@ -8,6 +8,7 @@
 #include "Point.hpp"
 #include "CurveParams.hpp"
 #include <NTL/ZZ.h>
+#include <cassert>
 using namespace std;
 using namespace NTL;
 

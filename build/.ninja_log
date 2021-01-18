@@ -1,0 +1,9 @@
+# ninja log v5
+0	312	1610999186150560833	CMakeFiles/TwistedHessianCurve.dir/src/Point.cpp.o	1fd6b55f313d641d
+1	285	1610999261623749270	CMakeFiles/TwistedHessianCurve.dir/src/main.cpp.o	cfd01d590bdcace4
+0	161	1610999382130257357	build.ninja	d9ccfe1d14b44161
+0	24	1610999598147173015	build.ninja	d9ccfe1d14b44161
+1	284	1610999598430506766	CMakeFiles/TwistedHessianCurve.dir/src/main.cpp.o	6a5116ef4aecd232
+1	304	1610999598450506795	CMakeFiles/TwistedHessianCurve.dir/src/Point.cpp.o	a66916884ee6fced
+0	24	1610999887720379886	build.ninja	d9ccfe1d14b44161
+0	43	1610999887763713430	TwistedHessianCurve	2053d47420ab8e0a
